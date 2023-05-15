@@ -82,3 +82,4 @@ int check_win(char board[3][3], char player) {
     }
     return 0; // If the player hasn't won yet, return 0
 }
+
